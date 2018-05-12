@@ -1,0 +1,48 @@
+_repo: TutkielmiaValikoima_45445
+_version: 0.1.0
+alternative_title: Essais. Finnish
+contributor:
+  translator:
+    agent_name: Hagfors, Edvin
+    alias: Hagfors, Edwin
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '45370'
+    url: http://www.gutenberg.org/2009/agents/45370
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montaigne, Michel de
+    aliases:
+    - Montagne, Michel de
+    - Montaigne, Michel Eyquem de
+    birthdate: 1533
+    deathdate: 1592
+    gutenberg_agent_id: '1230'
+    url: http://www.gutenberg.org/2009/agents/1230
+    wikipedia: http://en.wikipedia.org/wiki/Michel_de_Montaigne
+description: ''
+gutenberg_issued: '2014-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45445'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French essays -- Translations into Finnish'
+tableOfContents: Johdanto -- Tekijä lukijalle -- Joutilaisuudesta -- Erilaisista puhujalahjoista
+  -- Ketään ei voi kehua onnelliseksi ennen hänen kuolemaansa -- Kuoleman halveksimisesta
+  -- Tottumuksen voimasta ja miksi en saisi liian helposti muuttaa hyväksyttyä lakia
+  -- Kasvatuksesta -- La Boétien "Vapaaehtoinen orjuus" -- Ystävyydestä -- Voittoisat
+  tappiot -- Cato runoilijain ylistämänä -- Yksinäisyydestä -- Tutkielmieni tyylistä
+  -- Kuinka käsittelen aiheitani -- Rukouksista -- Tekojemme epäjohdonmukaisuudesta
+  -- Isästäni -- Amyotin Plutarkhos-käännöksestä -- Kidutuksesta -- Onko sallittua
+  puhua itsestään -- Isien rakkaudesta lapsiinsa -- Eri kirjailijoista -- Julmuudesta
+  -- Raimond de Sebondin puolustus -- Viiteselitykset.
+title: 'Tutkielmia: Valikoima'
+url: http://www.gutenberg.org/ebooks/45445
