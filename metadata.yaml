@@ -37,6 +37,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PQ'
 - !lcsh 'French essays -- Translations into Finnish'
+- GITenberg
 tableOfContents: Johdanto -- Tekijä lukijalle -- Joutilaisuudesta -- Erilaisista puhujalahjoista
   -- Ketään ei voi kehua onnelliseksi ennen hänen kuolemaansa -- Kuoleman halveksimisesta
   -- Tottumuksen voimasta ja miksi en saisi liian helposti muuttaa hyväksyttyä lakia
